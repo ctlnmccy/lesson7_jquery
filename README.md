@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 28, 2018
 
 ### Student Name:  
-(First and Last Name)
+Caitlin McCoy
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To build an application that uses elements containing ingredients to a recipe and instructions when you click on a specific heading.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ctlnmccy.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Utilized jquery to respond to users request.
+2. Utilixing the hover method.
+3. Utilizing the append method for modification.
 
